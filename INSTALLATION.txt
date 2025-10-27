@@ -1,0 +1,10 @@
+Snort Installation Guide (Ubuntu/Debian)
+
+This file outlines the steps to install Snort 2.9 on an Ubuntu 20.04 or similar Debian-based system.
+
+1. Update and Install Dependencies
+2. Install Data Acquisition (DAQ) Library
+Snort requires the DAQ library to access network interfaces.
+
+3. Install Snort
+4. Configure System and Test
